@@ -1,0 +1,1048 @@
+* {
+    margin: 0;
+	padding: 0;
+	border: 0;
+	vertical-align: baseline;
+	background: transparent;
+	font-weight: normal;
+	text-decoration: none;
+	outline: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+    
+}
+h2{
+    display: inline;
+}
+ul {
+	list-style: none;
+    padding-left: 200px;
+    display: inline;
+    padding-top: -200px;
+    text-align:space-between;
+    height: 38px;
+}
+body {
+	font-family: "GT-Eesti", Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	color: 000;
+	overflow-x: hidden;
+	min-width: 320px;
+    display: inline;
+	font-weight: 500;
+}
+a{
+    color: #000;
+}
+.wrapper {
+	width: 90%;
+    padding-top: 20px;
+}
+.flex-wrapper {
+	display: flex;
+}
+header {
+    height: 202px;
+    padding-top: 20px;
+}
+header h2.left {
+    height: 28px;
+}
+header h2.left a {
+    margin-right: 30px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 20px;
+    height: 48px;
+    margin-top: 0;
+}
+
+header nav.middle ul {
+    display: flex;
+}
+header nav.middle ul li a.on {
+    margin-right: 34px;
+}
+header nav.middle ul li a {
+    font-size: 13px;
+    margin-right: 39px;
+}
+#exclusive{
+    font-weight: bold;
+    font-size: 20px;
+    padding-right: 20%;
+    margin-left: -100px;
+}
+.firstform{
+    margin-left: 20px;
+    border: 1px  solid rgb(235, 235, 235);
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: -10px;
+    background:rgb(235, 235, 235);
+    color: #fff;
+    padding-right: 20px;
+}
+.form{
+    margin-left: 16%;
+}
+.search{
+    padding-right: -20px;
+}
+.wishlist{
+    padding-left: 20px;
+}
+.Cart{
+    padding-left: 20px;
+    margin-top: -5px;
+}
+p{
+    color: rgb(174, 174, 174);
+}
+#spotlight div{
+    background: #000;
+    height: 453px;
+    width: 1150px;
+    margin-left: 90px;
+    border-radius: 10px;
+    margin-top: -60px;
+}
+.frame{
+    margin-left: 85px;
+    margin-top: -50px;
+    height: 453px;
+}
+#middle{
+    margin-left: 90px;
+    margin-top: 70px;
+}
+#down{
+    margin-left: 90px;
+    margin-top: 70px;
+}
+#delivery{
+    margin-left: 200px;
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+.home{
+    color: rgb(202, 202, 202);
+}
+.Roadmap{
+    margin-left: 100px;
+}
+.items{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.item{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.road{
+    margin-left: 100px;
+}
+.ps5{
+    margin-left: 100px;
+    margin-top: 30px;
+    display: flex;
+}
+.Havic{
+    margin-left: 900px;
+    display: flex;
+    margin-top: -500px;
+}
+.star{
+    margin-left: 900px;
+    margin-top: 10px;
+    display: block;
+}
+.dollar{
+    margin-left: 900px;
+    margin-top: 20px;
+}
+.para{
+    margin-left: 850px;
+    margin-top: 25px;
+    color: #000;
+}
+.del{
+    margin-left: 900px;
+    margin-top: 10px;
+}
+.Color{
+    margin-left: 900px;
+    margin-top: 10px;
+}
+.relateditems{
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-bottom: 90px;
+}
+.Categories{
+    color: #DB4444;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 10px;
+}
+.Browse{
+    color: black;
+    font-size: 38px;
+    font-weight: 600;
+}
+.rectangleandcategories{
+    margin-bottom: 30px;
+}
+.CellPhone{
+    margin-top: 20px;
+    border: solid 1px;
+    border-radius: 4px;
+    border-color: #0000004a;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    height: 145px;
+}
+.Computer{
+    margin-top: 20px;
+    border: solid 1px;
+    border-radius: 4px;
+    border-color: #0000004a;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    height: 145px;
+    margin-left: 30px;
+}
+.SmartWatch{
+    margin-top: 20px;
+    border: solid 1px;
+    border-radius: 4px;
+    border-color: #0000004a;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    height: 145px;
+    margin-left: 30px;
+}
+.eadphone{
+    margin-top: 20px;
+    border: solid 1px;
+    border-radius: 4px;
+    border-color: #0000004a;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    height: 145px;
+    margin-left: 30px;
+}
+.Gamepad{
+    margin-top: 20px;
+    border: solid 1px;
+    border-radius: 4px;
+    border-color: #0000004a;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    height: 145px;
+    margin-left: 30px;
+}
+.Camera{
+    margin-top: 20px;
+    border: solid 1px;
+    border-radius: 4px;
+    border-color: #0000004a;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    height: 145px;
+    margin-left: 30px;
+}
+.teddy{
+    margin-top: 20px;
+    height: 250px;
+    background: #f5f5f5;
+    border: solid 0px;
+    border-radius: 4px;
+    border-color: #0000004a;
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 40px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.Breed{
+    font-size: 19px;
+    height: 24px;
+    width: 185px;
+    font-weight: 600;
+}
+.hundred{
+    display: inline;
+    font-size: 18px;
+    color: red;
+    margin-right: 10px;
+}
+.frame566{
+    margin-top: 5px;
+}
+.camera-2{
+    margin-left: 400px;
+    margin-top: -24.5%;
+    display: flex;
+    margin-bottom: 200px;
+    height: 250px;
+    background: #f5f5f5;
+    border: solid 0px;
+    border-radius: 4px;
+    border-color: #0000004a;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    padding-left: 60px;
+    padding-right: 60px;
+    height: 220px;
+}
+.addtocart{
+    display: flex;
+    margin-left: 400px;
+    margin-top: -16%;
+    margin-bottom: 200px;
+    color: white;
+    background: black;
+    padding: 10px;
+    width: 255px;
+    border-radius: 4px;
+    padding-left: 67px;
+}
+.canon{
+    font-size: 19px;
+    font-weight: 600;
+    margin-left: 400px;
+    display: flex;
+    margin-top: -190px;
+    margin-bottom: 205px;
+}
+.threehundred{
+    display: inline;
+    font-size: 18px;
+    color: red;
+    margin-left: 400px;
+    display: flex;
+    margin-top: -15%;
+    margin-bottom: 200px;
+}
+.frame567{
+    margin-left: 460px;
+    display: flex;
+    margin-top: -225px;
+}
+#camera-2{
+    margin-left: -80px;
+    margin-top: 20px;
+}
+.laptop{
+    margin-left: 620px;
+    margin-top: -24%;
+    display: flex;
+    margin-bottom: 200px;
+    height: 250px;
+    background: #f5f5f5;
+    border: solid 0px;
+    border-radius: 4px;
+    border-color: #0000004a;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    height: 250px;
+}
+.asusfhd{
+    font-size: 19px;
+    height: 24px;
+    font-weight: 600;
+    margin-left: 620px;
+    display: flex;
+    margin-top: -15%;
+}
+.sevenhundred{
+    display: flex;
+    font-size: 18px;
+    color: red;
+    margin-right: 10px;
+    margin-left: 620px;
+}
+.frame568{
+    margin-left: 670px;
+    display: flex;
+    margin-top: -23px;
+}
+.cream{
+    margin-left: 950px;
+    margin-top: -24%;
+    display: flex;
+    margin-bottom: 200px;
+    background: #f5f5f5;
+    border: solid 0px;
+    border-radius: 4px;
+    border-color: #0000004a;
+    padding-left: 50px;
+    padding-right: 50px;
+    height: 250px;
+}
+.curology{
+    font-size: 19px;
+    font-weight: 600;
+    margin-left: 950px;
+    display: flex;
+    margin-top: -190px;
+    margin-bottom: 205px;
+}
+.frame500{
+    margin-left: 1000px;
+    display: flex;
+    margin-top: -220px;
+}
+.fivehundred{
+    display: flex;
+    font-size: 18px;
+    color: red;
+    margin-left: 950px;
+    display: flex;
+    margin-top: -16%;
+    margin-bottom: 200px;
+}
+.car{
+    display: flex;
+    margin-top: 70px;
+    background: #f5f5f5;
+    border: solid 0px;
+    border-radius: 4px;
+    border-color: #0000004a;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 50px;
+    padding-right: 40px;
+}
+.kids{
+    font-size: 19px;
+    height: 24px;
+    margin-top: 20px;
+    width: 185px;
+    font-weight: 600;
+}
+.ninehundred{
+    display: inline;
+    font-size: 18px;
+    color: red;
+    margin-right: 10px;
+}
+.frame570{
+    margin-top: 5px;
+}
+.boot{
+    margin-left: 325px;
+    margin-top: -23%;
+    display: flex;
+    margin-bottom: 200px;
+    height: 250px;
+    background: #f5f5f5;
+    border: solid 0px;
+    border-radius: 4px;
+    border-color: #0000004a;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 40px;
+    height: 220px;
+}
+.down{
+    border-bottom: #d6d6d6 solid 1px;
+    margin-top: 50px;
+    width: 95%;
+}
+.viewall{
+    margin-left: 40%;
+    margin-top: 50px;
+    background: #DB4444;
+    padding: 20px;
+    width: 15%;
+    padding-left: 30px;
+    color: white;
+    border-radius: 4px;
+}
+.viewall a{
+    color: #fff;
+}
+.soccercleats{
+    font-size: 19px;
+    font-weight: 600;
+    margin-left: 330px;
+    display: flex;
+    margin-top: -190px;
+    margin-bottom: 205px;
+}
+.thousand{
+    font-size: 18px;
+    color: red;
+    margin-left: 330px;
+    display: flex;
+    margin-top: -15%;
+}
+.frame591{
+    margin-left: 400px;
+    display: flex;
+    margin-top: -25px;
+}
+.controller{
+    margin-left: 620px;
+    margin-top: -22.5%;
+    display: flex;
+    margin-bottom: 200px;
+    background: #f5f5f5;
+    border: solid 0px;
+    border-radius: 4px;
+    border-color: #0000004a;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 30px;
+}
+.shooter{
+    font-size: 19px;
+    height: 24px;
+    font-weight: 600;
+    margin-left: 620px;
+    display: flex;
+    margin-top: -15%;
+}
+.sixhundred{
+    display: flex;
+    font-size: 18px;
+    color: red;
+    margin-right: 10px;
+    margin-left: 620px;
+    margin-top: 10px;
+}
+.frame592{
+    margin-left: 670px;
+    display: flex;
+    margin-top: -23px;
+}
+.hoddie{
+    margin-left: 920px;
+    margin-top: -22.5%;
+    display: flex;
+    margin-bottom: 200px;
+    background: #f5f5f5;
+    border: solid 0px;
+    border-radius: 4px;
+    border-color: #0000004a;
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-right: 30px;
+}
+.quiltedsantinjacket{
+    font-size: 19px;
+    height: 24px;
+    font-weight: 600;
+    margin-left: 920px;
+    display: flex;
+    margin-top: -15%;
+}
+.sixthousand{
+    display: flex;
+    font-size: 18px;
+    color: red;
+    margin-right: 10px;
+    margin-left: 920px;
+    margin-top: 10px;
+}
+.Frame592{
+    margin-left: 965px;
+    display: flex;
+    margin-top: -23px;
+}
+.icondelivery{
+    background: #000;
+    border-radius: 50%;
+    display: flex;
+    padding: 10px;
+    margin-left: 80px;
+    border: #dcdcdcdd solid 10px;
+}
+.freeandfast{
+    font-size: 19px;
+    height: 24px;
+    font-weight: 600;
+    display: flex;
+    margin-top: 10px;
+}
+.orderover{
+    font-size: 15px;
+    margin-top: 15px;
+}
+#customer{
+    margin-top: -149px;
+}
+.iconcustomer{
+    background: #000;
+    border-radius: 50%;
+    padding: 10px;
+    margin-left: 420px;
+    border: #dcdcdcdd solid 10px;
+}
+.customerservice{
+    font-size: 19px;
+    display: flex;
+    height: 24px;
+    font-weight: 600;
+    margin-top: 10px;
+    margin-left: 350px;
+}
+h6{
+    font-size: 15px;
+    margin-top: 15px;
+    margin-left: 360px;
+}
+#return{
+    margin-top: -149px;
+}
+.safety{
+    background: #000;
+    border-radius: 50%;
+    padding: 10px;
+    margin-left: 770px;
+    border: #dcdcdcdd solid 10px;
+}
+.moneyback{
+    font-size: 19px;
+    display: flex;
+    height: 24px;
+    font-weight: 600;
+    margin-top: 10px;
+    margin-left: 685px;
+}
+.return{
+    font-size: 15px;
+    margin-top: 15px;
+    margin-left: 700px;
+}
+.heading{
+    font-size: 28px;
+    margin-left: 130px;
+    padding-top: 80px;
+    font-weight: 600;
+    display: flex;
+    margin-bottom: 35px;
+}
+.Subscribe{
+    color: #fff;
+    font-size: 25px;
+    margin-left: 130px;
+    margin-bottom: 40px;
+    display: flex;
+}
+.offer{
+    color: #fff;
+    margin-left: 130px;
+    margin-top: 40px;
+    display: flex;
+}
+.one_by_two{
+    margin-left: 130px;
+    margin-top: 30px;
+    display: flex;
+}
+.email{
+    color: rgb(255, 255, 255);
+    border: rgb(255, 255, 255) solid 1px;
+    padding: 15px;
+    display: flex;
+    border-radius: 4px;
+}    
+.send{
+    display: flex;
+    margin-left: 300px;
+    margin-top: -35px;
+    display: flex;
+    margin-bottom: 40px;
+}
+.support2{
+    margin-left: 400px;
+    margin-top: -259px;
+    display: flex;
+}
+.place{
+    margin-left: 400px;
+    width: 15%;
+    margin-top: 30px;
+    display: flex;
+    color: #fff;
+}
+.account{
+    margin-left: 690px;
+    display: flex;
+    margin-top: -14.5%;
+}
+.acc{
+    margin-left: 690px;
+    width: 15%;
+    margin-top: 40px;
+    display: flex;
+    color: #fff;
+}
+.shop{
+    margin-left: 690px;
+    width: 15%;
+    margin-top: 30px;
+    display: flex;
+    color: #fff;
+}
+
+.ex{
+    font-size: 28px;
+    margin-left: 130px;
+    padding-top: 80px;
+    font-weight: 600;
+    display: flex;
+    margin-bottom: 35px;
+}
+.quicklink{
+    margin-left: 900px;
+    display: flex;
+    margin-top: -20%;
+    font-size: 25px;
+    color: #fff;
+}
+.policy{
+    margin-left: 900px;
+    margin-top: 40px;
+    display: flex;
+    color: #fff;
+}
+.download{
+    margin-left: 1140px;
+    display: flex;
+    font-size: 25px;
+    color: #fff;
+    margin-top: -20%;
+}
+.save{
+    margin-top: 40px;
+    color: #fff;
+    margin-left: 1100px;
+}
+.Group{
+    margin-left: 10px;
+}
+.insta{
+    margin-left: 10px;
+}
+.in{
+    margin-left: 10px;
+}
+#contacts{
+    background: #000;
+    color: white;
+    width: 1360px;
+}
+.underline{
+    border-bottom: black solid 1px;
+}
+.homes{
+    color: #bfbfbf;
+    margin-top: -100px;
+}
+.Pro{
+    margin-left: 60px;
+    margin-top: -20px;
+    margin-bottom: -50px;
+}
+.contacts{
+    margin-top: 50px;
+}
+.one_by_three{
+    background: #dcdcdcdd;
+    padding: 10px;
+    margin-top: -10px;
+    border-radius: 4px;
+}
+#first{
+    margin-top: -60px;
+}
+.homegaming{
+    margin-left: 100px;
+}
+.havichv{
+    margin-left: 240px;
+    margin-top: -20px;
+}
+.image{
+    margin-left: 100px;
+    background: #dcdcdcdd;
+    padding: 100px;
+    display: flex;
+    margin-top: 60px;
+    border-radius: 4px;
+}
+.HAvic{
+    margin-left: 850px;
+    margin-top: -470px;
+    font-size: 30px;
+}
+.fourstar{
+    margin-left: 850px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.Reviews150{
+    margin-left: 960px;
+    margin-top: -30px;
+    color: #b3b3b3;
+}
+.one1{
+    margin-left: 1080px;
+    margin-top: -19px;
+    color: #0000004a;
+}
+.instock{
+    margin-left: 1105px;
+    margin-top: -19px;
+    color: green;
+}
+.dollar{
+    margin-left: 850px;
+}
+.dow{
+    border-bottom: #0000004a 1px solid;
+    width: 350px;
+    margin-left: 850px;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+.color{
+    margin-left: 850px;
+    margin-top: 30px;
+}
+.blue{
+    background: skyblue;
+    border: black 2px solid;
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    margin-left: 990px;
+    margin-top: -20px;
+}
+.pink{
+    background: pink;
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    margin-left: 1020px;
+    margin-top: -20px;
+}
+.icon{
+    margin-left: 870px;
+    margin-top: -160px;
+    display: flex;
+}
+.icon-d{
+    margin-left: 950px;
+    margin-top: -40px;
+    display: flex;
+}.enteryour{
+    margin-left: 940px;
+    font-size: 13px;
+    border-bottom: solid 1px black;
+    display: flex;
+    width: 265px;
+}
+.iconreturn{
+    margin-left: 870px;
+    display: flex;
+    margin-top: 40px;
+}
+.delivery30{
+    margin-left: 940px;
+    font-size: 13px;
+    display: flex;
+}
+.icondelivery1{
+    border: black 1px solid;
+    width: 399px;
+    height: 180px;
+    margin-top: 10px;
+    display: flex;
+    margin-left: 850px;
+    padding-bottom: 80px;
+    border-radius: 4px;
+    opacity: 50%;
+}
+.border{
+    border-bottom: 1px solid black;
+    opacity: 50%;
+    margin-top: 20px;
+    margin-bottom: -20px;
+    margin-left: 850px;
+    width: 399px;
+}
+.Rect{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.frame611{
+    margin-top: 20px;
+    height: 250px;
+    background: #f5f5f5;
+    border: solid 0px;
+    border-radius: 4px;
+    border-color: #0000004a;
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.frame6111{
+    font-size: 19px;
+    height: 24px;
+    width: 300px;
+    font-weight: 600;
+}
+.more{
+    font-size: 18px;
+    color: #7a7a7a;
+}
+.flex{
+    border-bottom: #0000004a;
+}
+.gamingkeyboard{
+    margin-left: 400px;
+    margin-top: -29%;
+    display: flex;
+    margin-bottom: 200px;
+    height: 250px;
+    background: #f5f5f5;
+    border: solid 0px;
+    border-radius: 4px;
+    border-color: #0000004a;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    width: 260px;
+    height: 210px;
+}
+.tocart{
+    display: flex;
+    margin-left: 402px;
+    margin-top: -17%;
+    margin-bottom: 200px;
+    color: white;
+    background: black;
+    padding: 10px;
+    width: 255px;
+    border-radius: 4px;
+    padding-left: 67px;
+}
+.Monitor{
+    margin-left: 620px;
+    margin-top: -29%;
+    display: flex;
+    margin-bottom: 200px;
+    height: 250px;
+    background: #f5f5f5;
+    border: solid 0px;
+    border-radius: 4px;
+    border-color: #0000004a;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    height: 250px;
+}
+.monitor{
+    font-size: 19px;
+    height: 24px;
+    font-weight: 600;
+    margin-left: 625px;
+    display: flex;
+    margin-top: -16%;
+}
+.pc{
+    margin-left: 950px;
+    margin-top: -30%;
+    display: flex;
+    margin-bottom: 200px;
+    background: #f5f5f5;
+    border: solid 0px;
+    border-radius: 4px;
+    border-color: #0000004a;
+    padding-left: 20px;
+    height: 250px;
+}
+.rgb{
+    font-size: 19px;
+    font-weight: 600;
+    margin-left: 950px;
+    display: flex;
+    margin-top: -175px;
+    margin-bottom: 205px;
+    width: 209px;
+}
+.many{
+    color: #7a7a7a;
+    font-size: 18px;
+    margin-left: 450px;
+    margin-top: -20px;
+}
+.forr{
+    display: inline;
+    font-size: 18px;
+    color: red;
+    margin-left: 400px;
+    display: flex;
+    margin-top: -17%;
+}
+.frame599{
+    margin-left: 400px;
+    display: flex
+}
+.fourhun{
+    color: #7a7a7a;
+    font-size: 18px;
+    margin-left: 670px;
+    margin-top: -20px;
+    display: flex;
+}
+.frame5600{
+    margin-left: 620px;
+    display: flex;
+}
+.fivehudred{
+    font-size: 18px;
+    color: red;
+    margin-left: 950px;
+    display: flex;
+    margin-top: -18%;
+    margin-bottom: 200px;
+}
+.oneseven{
+    color: #7a7a7a;
+    font-size: 18px;
+    margin-left: 1000px;
+    margin-top: -220px;
+}
+.frame50{
+    margin-left: 950px;
+    display: flex;
+}
